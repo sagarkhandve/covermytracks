@@ -9,7 +9,7 @@
 #### **With sudo :**
 
 ```bash
-sudo curl -sSL https://raw.githubusercontent.com/sagarkhandve/covermyass/master/covermyass -o /usr/bin/covermytracks
+sudo curl -sSL https://raw.githubusercontent.com/sagarkhandve/covermytracks/main/covermytracks -o /usr/bin/covermytracks
 sudo chmod +x /usr/bin/covermytracks
 ```
 
@@ -17,7 +17,7 @@ sudo chmod +x /usr/bin/covermytracks
 
 ```bash
 mkdir -p .local/bin
-curl -sSL https://raw.githubusercontent.com/sundowndev/covermyass/master/covermyass -o ~/.local/bin/covermytracks
+curl -sSL https://raw.githubusercontent.com/sagarkhandve/covermytracks/main/covermytracks -o ~/.local/bin/covermytracks
 chmod +x ~/.local/bin/covermytracks
 ```
 
