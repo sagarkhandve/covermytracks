@@ -2,7 +2,7 @@
 ## **covermytracks - Tool for pentesters.**
 ![whole-house-carpet-cleaning-logo](https://user-images.githubusercontent.com/90393971/188179794-783ffbe5-589d-4fa0-b8f3-d239638294c8.png)
 
-#### **Shell script to cover your tracks on UNIX systems. Designed for pen testing covering tracks phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.**
+#### **Shell script to cover your tracks on `UNIX` systems. Designed for pen testing covering tracks phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.**
 
 #### **Installation**
 
