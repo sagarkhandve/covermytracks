@@ -31,7 +31,7 @@ function isRoot () {
 
 function menu () {
         echo
-        echo "Welcome to Cover my ass tool !"
+        echo "Welcome to cover my tracks tool.!"
 
         echo
         echo "Select an option :"
