@@ -25,9 +25,8 @@ chmod +x ~/.local/bin/covermytracks
 
 #### **Keep in mind that without sudo privileges, you *might* be unable to clear system-level log files (`/var/log`).**
 
-#### **Usage**
+#### **Usage :**
 
-#### **Type :**
 ```
 covermytracks # you may need to use sudo if you want to clean auth logs
 ```
