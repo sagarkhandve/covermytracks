@@ -52,7 +52,7 @@ Select an option :
 sudo covermytracks now
 ```
 
-#### **Job scheduler using cron job. Clear bash history every day at 6 am :**
+#### **Job scheduler using cron job. Clear bash history every day at 6am :**
 
 ```bash
 0 6 * * * covermytracks now >/dev/null 2>&1
